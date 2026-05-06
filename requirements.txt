@@ -1,0 +1,10 @@
+python-dotenv==1.0.1
+requests==2.32.3
+tenacity==9.0.0
+colorama==0.4.6
+sounddevice==0.5.1
+numpy==1.26.4
+scipy==1.13.1
+openwakeword==0.6.0
+faster-whisper==1.0.3
+rich==13.9.4
