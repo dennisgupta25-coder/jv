@@ -1,0 +1,44 @@
+# Secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Audio + cache
+recordings/
+*.wav
+*.mp3
+*.flac
+
+# Models (large binaries)
+models/
+*.bin
+*.pt
+*.onnx
+*.tflite
+.cache/
+
+# Logs
+logs/
+*.log
+
+# Memory dumps
+memory/history.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
